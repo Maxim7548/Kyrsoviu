@@ -28,8 +28,6 @@ namespace Автосервіс
             metroButtonWorkers.Enabled = true;
             metroButtonWorks.Enabled = true;
             metroButtonSettings.Enabled = true;
-            metroButtonInstrumentWorkers.Enabled = true;
-            metroButtonInstrument.Enabled = true;
         }
         private void HidePanels()
         {
@@ -37,11 +35,6 @@ namespace Автосервіс
             metroPanelWorks.Visible = false;
             metroPanelEditWorkers.Visible = false;
             metroPanelUsers.Visible = false;
-            metroPanelWorkersReport.Visible = false;
-            metroPanelVacations_WorkersInfo.Visible = false;
-            metroPanelInstrument.Visible = false;
-            metroPanelGiveAct.Visible = false;
-            metroPanelWriteoffAct.Visible = false;
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -50,7 +43,6 @@ namespace Автосервіс
         private void Form1_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the 'dbDataSet.workers' table. You can move, or remove it, as needed.
-            currentTheme.theme = MetroFramework.MetroThemeStyle.Light;
             this.workersTableAdapter.Fill(this.dbDataSet.workers);
             this.worksTableAdapter.Fill(this.dbDataSet.works);
             this.carsTableAdapter.Fill(this.dbDataSet.cars);
@@ -73,7 +65,7 @@ namespace Автосервіс
 
 
             //}
-            
+
 
         }
 
@@ -89,19 +81,16 @@ namespace Автосервіс
 
         private void AddWorksColumnsToGrid(DataGridView grid)
         {
-            grid.Columns["WorksId"].Visible = false;
-            grid.Columns["ServiceName"].Width = 120;
-            grid.Columns["RegistrationMark"].Width = 120;
+           // grid.Columns["id"].Width = 40;
+            grid.Columns["ServiceName"].Width = 150;
             grid.Columns["StartTime"].Width = 120;
             grid.Columns["FinishTime"].Width = 120;
-            grid.Columns["Price"].Visible = false;
-            //grid.Columns["id"].HeaderText = "id роботи";
+           // grid.Columns["id"].HeaderText = "id роботи";
             grid.Columns["CarMark"].HeaderText = "Марка авто";
             grid.Columns["ClientName"].HeaderText = "ПІБ клієнта";
             grid.Columns["WorkerName"].HeaderText = "ПІБ працівника";
             grid.Columns["ServiceName"].HeaderText = "Назва послуги";
             grid.Columns["StartTime"].HeaderText = "Час початку";
-            grid.Columns["RegistrationMark"].HeaderText = "Регістраційний номер";
             grid.Columns["FinishTime"].HeaderText = "Час завершення";
             foreach (DataGridViewColumn column in grid.Columns)
             {
@@ -129,7 +118,7 @@ namespace Автосервіс
             Connection.OpenConnection();
             OleDbCommand command = new OleDbCommand();
             command.Connection = Connection.GetConnection();
-            command.CommandText = "SELECT works.id AS WorksId, cars.marks AS CarMark, cars.registration_mark AS RegistrationMark, clients.name AS ClientName, workers.name AS WorkerName, services.name AS ServiceName, services.price AS Price, works.times_start AS StartTime, works.times_finish AS FinishTime " +
+            command.CommandText = "SELECT cars.marks AS CarMark, clients.name AS ClientName, workers.name AS WorkerName, services.name AS ServiceName, works.times_start AS StartTime, works.times_finish AS FinishTime " +
                                   "FROM (((works " +
                                   "INNER JOIN cars ON cars.id = works.cars_id) " +
                                   "INNER JOIN workers ON workers.id = works.workers_id) " +
@@ -305,13 +294,12 @@ namespace Автосервіс
                     command.Connection = conn;
                     command.CommandText = "SELECT login AS UserName, is_admin AS UserRole FROM users;";
                     OleDbDataAdapter adapter = new OleDbDataAdapter(command);
-                    OleDbDataReader reader = command.ExecuteReader();
+                    DataTable table = new DataTable();
+                    adapter.Fill(table);
+                    table.Columns["UserName"].DataType = typeof(string);
 
                     AddUsersColumnsToGrid(metroGridUsers);
-                    while (reader.Read())
-                    {
-                        metroGridUsers.Rows.Add(reader["UserName"].ToString(), (reader["UserRole"].ToString() == "1") ? "Адміністратор" : "Користувач");
-                    }
+                    metroGridUsers.DataSource = table;
                     
                 }
             }
@@ -337,84 +325,19 @@ namespace Автосервіс
             {
                 column.ReadOnly = true;
             }
+            foreach (DataGridViewRow row in grid.Rows)
+            {
+                row.Cells["UserRole"].Value = (row.Cells["UserRole"].Value.ToString() == "True") ? "Адміністратор" : "Користувач";
+            }
         }
         private void metroButtonEditUsers_Click(object sender, EventArgs e)
         {
-           // this.Text = metroButtonEditUsers.Text;
             HidePanels();
             EnableButtons();
             metroPanelUsers.Visible = true;
             metroPanelUsers.Focus();
             metroButtonEditUsers.Enabled = false;
-            metroGridUsers.Rows.Clear();
-            metroGridUsers.Columns.Clear();
             loadUsers();
-            
-        }
-
-        private void metroButtonSettings_Click(object sender, EventArgs e)
-        {
-            Settings settingsForm = new Settings();
-            ThemeHelper.ApplyToForm(settingsForm);
-            settingsForm.ShowDialog();
-        }
-
-        private void label12_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void spacer28_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void label16_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void metroButton3_Click(object sender, EventArgs e)
-        {
-            int currentId = Convert.ToInt32(metroGridAct.CurrentRow.Cells["WorksId"].Value);
-            Act act = new Act(currentId);
-            act.ShowDialog();
-        }
-
-        private void metroButtonWorkers_Click(object sender, EventArgs e)
-        {
-            HidePanels();
-            EnableButtons();
-            metroPanelWorkersReport.Visible = true;
-            metroPanelWorkersReport.Focus();
-            metroButtonWorkers.Enabled = false;
-        }
-
-        private void metroButtonInstrument_Click(object sender, EventArgs e)
-        {
-            HidePanels();
-            EnableButtons();
-            metroPanelInstrument.Visible = true;
-            metroPanelInstrument.Focus();
-            metroPanelInstrument.Enabled = false;
-        }
-
-        private void metroButtonGiveAct_Click(object sender, EventArgs e)
-        {
-            HidePanels();
-            EnableButtons();
-            metroPanelGiveAct.Visible = true;
-            metroPanelGiveAct.Focus();
-            metroButtonGiveAct.Enabled = false;
-        }
-
-        private void metroButtonWriteoffAct_Click(object sender, EventArgs e)
-        {
-            HidePanels();
-            EnableButtons();
-            metroPanelWriteoffAct.Visible = true;
-            metroPanelWriteoffAct.Focus();
-            metroButtonWriteoffAct.Enabled = false;
         }
     }
 }
