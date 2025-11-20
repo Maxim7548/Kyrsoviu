@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MetroFramework.Components;
+using MetroFramework;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -8,6 +10,7 @@ namespace Автосервіс
 {
     internal static class Program
     {
+        public static MetroStyleManager AppStyleManager;
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
@@ -16,7 +19,12 @@ namespace Автосервіс
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            // Program.cs (Main)
+            ThemeHelper.Init(Properties.Settings.Default.AppTheme == "Dark" ? MetroThemeStyle.Dark : MetroThemeStyle.Light);
+            var main = new mainForm();
+            ThemeHelper.ApplyToForm(main);
+            Application.Run(main);
         }
     }
 }
