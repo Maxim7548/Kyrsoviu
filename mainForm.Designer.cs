@@ -90,14 +90,21 @@
             this.metroButton2 = new MetroFramework.Controls.MetroButton();
             this.metroButton1 = new MetroFramework.Controls.MetroButton();
             this.metroPanel18 = new MetroFramework.Controls.MetroPanel();
+            this.spacer46 = new Автосервіс.Spacer();
             this.metroComboBox3 = new MetroFramework.Controls.MetroComboBox();
+            this.spacer47 = new Автосервіс.Spacer();
             this.label19 = new System.Windows.Forms.Label();
             this.metroPanel17 = new MetroFramework.Controls.MetroPanel();
+            this.spacer42 = new Автосервіс.Spacer();
             this.metroComboBox2 = new MetroFramework.Controls.MetroComboBox();
+            this.spacer45 = new Автосервіс.Spacer();
             this.label18 = new System.Windows.Forms.Label();
             this.metroPanel16 = new MetroFramework.Controls.MetroPanel();
+            this.spacer43 = new Автосервіс.Spacer();
             this.metroComboBox1 = new MetroFramework.Controls.MetroComboBox();
+            this.spacer44 = new Автосервіс.Spacer();
             this.label17 = new System.Windows.Forms.Label();
+            this.spacer41 = new Автосервіс.Spacer();
             this.metroGridAct = new MetroFramework.Controls.MetroGrid();
             this.labelAct = new System.Windows.Forms.Label();
             this.worksBindingSource = new System.Windows.Forms.BindingSource(this.components);
@@ -117,37 +124,52 @@
             this.metroDateTime1 = new MetroFramework.Controls.MetroDateTime();
             this.metroCheckBox2 = new MetroFramework.Controls.MetroCheckBox();
             this.metroCheckBox1 = new MetroFramework.Controls.MetroCheckBox();
+            this.spacer48 = new Автосервіс.Spacer();
             this.metroComboBox4 = new MetroFramework.Controls.MetroComboBox();
+            this.spacer49 = new Автосервіс.Spacer();
             this.label20 = new System.Windows.Forms.Label();
             this.metroGridAllWorks = new MetroFramework.Controls.MetroGrid();
             this.label1 = new System.Windows.Forms.Label();
             this.metroPanelEditWorkers = new MetroFramework.Controls.MetroPanel();
             this.metroPanelVacations_WorkersInfo = new MetroFramework.Controls.MetroPanel();
             this.metroButtonClearWorkersInfo = new MetroFramework.Controls.MetroButton();
+            this.spacer2 = new Автосервіс.Spacer();
             this.metroGridWorkers = new MetroFramework.Controls.MetroGrid();
+            this.spacer3 = new Автосервіс.Spacer();
             this.metroTextBox1 = new MetroFramework.Controls.MetroTextBox();
+            this.spacer1 = new Автосервіс.Spacer();
             this.label4 = new System.Windows.Forms.Label();
+            this.spacer5 = new Автосервіс.Spacer();
             this.metroPanel3 = new MetroFramework.Controls.MetroPanel();
             this.metroPanel4 = new MetroFramework.Controls.MetroPanel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.metroDateTimeFinishVacation = new MetroFramework.Controls.MetroDateTime();
             this.metroLabel4 = new MetroFramework.Controls.MetroLabel();
+            this.spacer12 = new Автосервіс.Spacer();
             this.panel3 = new System.Windows.Forms.Panel();
             this.metroDateTimeStartVacation = new MetroFramework.Controls.MetroDateTime();
             this.metroLabel3 = new MetroFramework.Controls.MetroLabel();
+            this.spacer11 = new Автосервіс.Spacer();
             this.panel2 = new System.Windows.Forms.Panel();
             this.metroComboBoxVacationReason = new System.Windows.Forms.ComboBox();
             this.metroTextBoxVacationAnotherReason = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel2 = new MetroFramework.Controls.MetroLabel();
+            this.spacer10 = new Автосервіс.Spacer();
             this.panel1 = new System.Windows.Forms.Panel();
             this.metroTextBoxVacationsWorkerName = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
+            this.spacer8 = new Автосервіс.Spacer();
+            this.spacer9 = new Автосервіс.Spacer();
             this.label6 = new System.Windows.Forms.Label();
+            this.spacer7 = new Автосервіс.Spacer();
             this.metroPanelActionsVacations = new MetroFramework.Controls.MetroPanel();
             this.metroButtonCancelVacation = new MetroFramework.Controls.MetroButton();
+            this.spacer13 = new Автосервіс.Spacer();
             this.metroButtonSaveVacation = new MetroFramework.Controls.MetroButton();
             this.metroButtonAddVaction = new MetroFramework.Controls.MetroButton();
+            this.spacer6 = new Автосервіс.Spacer();
             this.label5 = new System.Windows.Forms.Label();
+            this.spacer4 = new Автосервіс.Spacer();
             this.metroPanel2 = new MetroFramework.Controls.MetroPanel();
             this.metroGridWorkersVacations = new MetroFramework.Controls.MetroGrid();
             this.label3 = new System.Windows.Forms.Label();
@@ -155,72 +177,103 @@
             this.workersBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.workersTableAdapter = new Автосервіс.DbDataSetTableAdapters.workersTableAdapter();
             this.metroPanelUsers = new MetroFramework.Controls.MetroPanel();
+            this.spacer17 = new Автосервіс.Spacer();
             this.metroPanel7 = new MetroFramework.Controls.MetroPanel();
             this.metroTextBoxSearchUser = new MetroFramework.Controls.MetroTextBox();
+            this.spacer16 = new Автосервіс.Spacer();
             this.label9 = new System.Windows.Forms.Label();
             this.metroPanel5 = new MetroFramework.Controls.MetroPanel();
             this.metroGridUsers = new MetroFramework.Controls.MetroGrid();
             this.label7 = new System.Windows.Forms.Label();
+            this.spacer15 = new Автосервіс.Spacer();
             this.metroPanel6 = new MetroFramework.Controls.MetroPanel();
             this.metroPanel8 = new MetroFramework.Controls.MetroPanel();
             this.metroPanel9 = new MetroFramework.Controls.MetroPanel();
             this.metroButtonCancelUser = new MetroFramework.Controls.MetroButton();
+            this.spacer23 = new Автосервіс.Spacer();
             this.metroButtonSaveUser = new MetroFramework.Controls.MetroButton();
             this.metroButtonDeleteUser = new MetroFramework.Controls.MetroButton();
+            this.spacer27 = new Автосервіс.Spacer();
             this.metroButtonChangePassword = new MetroFramework.Controls.MetroButton();
+            this.spacer26 = new Автосервіс.Spacer();
             this.metroButtonChangeAccess = new MetroFramework.Controls.MetroButton();
+            this.spacer25 = new Автосервіс.Spacer();
             this.metroButtonAddUser = new MetroFramework.Controls.MetroButton();
+            this.spacer24 = new Автосервіс.Spacer();
             this.label11 = new System.Windows.Forms.Label();
+            this.spacer18 = new Автосервіс.Spacer();
             this.panel6 = new System.Windows.Forms.Panel();
             this.metroComboBoxStatus = new MetroFramework.Controls.MetroComboBox();
             this.metroLabel6 = new MetroFramework.Controls.MetroLabel();
+            this.spacer19 = new Автосервіс.Spacer();
             this.panel7 = new System.Windows.Forms.Panel();
             this.metroTextBoxPassword = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel7 = new MetroFramework.Controls.MetroLabel();
+            this.spacer20 = new Автосервіс.Spacer();
             this.panel8 = new System.Windows.Forms.Panel();
             this.metroTextBoxLogin = new MetroFramework.Controls.MetroTextBox();
             this.metroLabelLogin = new MetroFramework.Controls.MetroLabel();
+            this.spacer21 = new Автосервіс.Spacer();
+            this.spacer22 = new Автосервіс.Spacer();
             this.label10 = new System.Windows.Forms.Label();
+            this.spacer14 = new Автосервіс.Spacer();
             this.label8 = new System.Windows.Forms.Label();
             this.metroStyleManager1 = new MetroFramework.Components.MetroStyleManager(this.components);
             this.metroPanelInstrument = new MetroFramework.Controls.MetroPanel();
             this.metroPanel14 = new MetroFramework.Controls.MetroPanel();
             this.metroTextBoxInstrumentSearch = new MetroFramework.Controls.MetroTextBox();
+            this.spacer40 = new Автосервіс.Spacer();
             this.label16 = new System.Windows.Forms.Label();
             this.metroPanel13 = new MetroFramework.Controls.MetroPanel();
             this.metroGridInstrument = new MetroFramework.Controls.MetroGrid();
             this.label15 = new System.Windows.Forms.Label();
+            this.spacer39 = new Автосервіс.Spacer();
             this.metroPanel10 = new MetroFramework.Controls.MetroPanel();
             this.metroPanel11 = new MetroFramework.Controls.MetroPanel();
             this.metroPanel12 = new MetroFramework.Controls.MetroPanel();
             this.metroButtonCancelInstrument = new MetroFramework.Controls.MetroButton();
+            this.spacer29 = new Автосервіс.Spacer();
             this.metroButtonSaveInstrument = new MetroFramework.Controls.MetroButton();
+            this.spacer30 = new Автосервіс.Spacer();
+            this.spacer31 = new Автосервіс.Spacer();
             this.metroButtonChangeInstrument = new MetroFramework.Controls.MetroButton();
+            this.spacer32 = new Автосервіс.Spacer();
             this.metroButtonAddInstrument = new MetroFramework.Controls.MetroButton();
+            this.spacer33 = new Автосервіс.Spacer();
             this.label13 = new System.Windows.Forms.Label();
+            this.spacer34 = new Автосервіс.Spacer();
             this.panel5 = new System.Windows.Forms.Panel();
             this.metroTextBoxUsageTime = new MetroFramework.Controls.MetroTextBox();
             this.metroComboBoxUsageTimeMeasurment = new MetroFramework.Controls.MetroComboBox();
             this.metroLabel5 = new MetroFramework.Controls.MetroLabel();
+            this.spacer35 = new Автосервіс.Spacer();
             this.panel9 = new System.Windows.Forms.Panel();
             this.metroTextBoxInstrumentPrice = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel8 = new MetroFramework.Controls.MetroLabel();
+            this.spacer36 = new Автосервіс.Spacer();
             this.panel10 = new System.Windows.Forms.Panel();
             this.metroTextBoxInstrumentName = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel9 = new MetroFramework.Controls.MetroLabel();
+            this.spacer37 = new Автосервіс.Spacer();
+            this.spacer38 = new Автосервіс.Spacer();
             this.label14 = new System.Windows.Forms.Label();
+            this.spacer28 = new Автосервіс.Spacer();
             this.label12 = new System.Windows.Forms.Label();
             this.metroPanelWorkersReport = new MetroFramework.Controls.MetroPanel();
             this.metroPanel20 = new MetroFramework.Controls.MetroPanel();
             this.metroButton7 = new MetroFramework.Controls.MetroButton();
             this.metroPanel23 = new MetroFramework.Controls.MetroPanel();
             this.metroButton8 = new MetroFramework.Controls.MetroButton();
+            this.spacer53 = new Автосервіс.Spacer();
             this.metroButton9 = new MetroFramework.Controls.MetroButton();
+            this.spacer52 = new Автосервіс.Spacer();
             this.metroPanel22 = new MetroFramework.Controls.MetroPanel();
             this.metroTextBox3 = new MetroFramework.Controls.MetroTextBox();
+            this.spacer51 = new Автосервіс.Spacer();
             this.label23 = new System.Windows.Forms.Label();
             this.metroPanel21 = new MetroFramework.Controls.MetroPanel();
             this.metroTextBox2 = new MetroFramework.Controls.MetroTextBox();
+            this.spacer50 = new Автосервіс.Spacer();
             this.label22 = new System.Windows.Forms.Label();
             this.metroGridWorkersReportInfo = new MetroFramework.Controls.MetroGrid();
             this.label21 = new System.Windows.Forms.Label();
@@ -231,9 +284,13 @@
             this.metroButton12 = new MetroFramework.Controls.MetroButton();
             this.metroPanel25 = new MetroFramework.Controls.MetroPanel();
             this.metroPanel26 = new MetroFramework.Controls.MetroPanel();
+            this.spacer56 = new Автосервіс.Spacer();
             this.metroComboBox6 = new MetroFramework.Controls.MetroComboBox();
+            this.spacer57 = new Автосервіс.Spacer();
             this.label27 = new System.Windows.Forms.Label();
+            this.spacer54 = new Автосервіс.Spacer();
             this.metroComboBox5 = new MetroFramework.Controls.MetroComboBox();
+            this.spacer55 = new Автосервіс.Spacer();
             this.label24 = new System.Windows.Forms.Label();
             this.metroGrid1 = new MetroFramework.Controls.MetroGrid();
             this.label25 = new System.Windows.Forms.Label();
@@ -244,9 +301,13 @@
             this.metroButton15 = new MetroFramework.Controls.MetroButton();
             this.metroPanel29 = new MetroFramework.Controls.MetroPanel();
             this.metroPanel30 = new MetroFramework.Controls.MetroPanel();
+            this.spacer58 = new Автосервіс.Spacer();
             this.metroComboBox7 = new MetroFramework.Controls.MetroComboBox();
+            this.spacer59 = new Автосервіс.Spacer();
             this.label26 = new System.Windows.Forms.Label();
+            this.spacer60 = new Автосервіс.Spacer();
             this.metroComboBox8 = new MetroFramework.Controls.MetroComboBox();
+            this.spacer61 = new Автосервіс.Spacer();
             this.label28 = new System.Windows.Forms.Label();
             this.metroGrid2 = new MetroFramework.Controls.MetroGrid();
             this.label29 = new System.Windows.Forms.Label();
@@ -255,9 +316,13 @@
             this.metroButton19 = new MetroFramework.Controls.MetroButton();
             this.metroPanel35 = new MetroFramework.Controls.MetroPanel();
             this.metroTextBox7 = new MetroFramework.Controls.MetroTextBox();
+            this.spacer73 = new Автосервіс.Spacer();
             this.label35 = new System.Windows.Forms.Label();
+            this.spacer70 = new Автосервіс.Spacer();
             this.metroGrid4 = new MetroFramework.Controls.MetroGrid();
+            this.spacer71 = new Автосервіс.Spacer();
             this.metroTextBox6 = new MetroFramework.Controls.MetroTextBox();
+            this.spacer72 = new Автосервіс.Spacer();
             this.label34 = new System.Windows.Forms.Label();
             this.metroPanel31 = new MetroFramework.Controls.MetroPanel();
             this.metroPanel32 = new MetroFramework.Controls.MetroPanel();
@@ -265,97 +330,32 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.metroTextBox4 = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel14 = new MetroFramework.Controls.MetroLabel();
+            this.spacer64 = new Автосервіс.Spacer();
             this.panel11 = new System.Windows.Forms.Panel();
             this.metroDateTime5 = new MetroFramework.Controls.MetroDateTime();
             this.metroLabel12 = new MetroFramework.Controls.MetroLabel();
+            this.spacer62 = new Автосервіс.Spacer();
             this.panel12 = new System.Windows.Forms.Panel();
             this.metroDateTime6 = new MetroFramework.Controls.MetroDateTime();
             this.metroLabel13 = new MetroFramework.Controls.MetroLabel();
+            this.spacer63 = new Автосервіс.Spacer();
+            this.spacer65 = new Автосервіс.Spacer();
+            this.spacer66 = new Автосервіс.Spacer();
             this.label32 = new System.Windows.Forms.Label();
+            this.spacer67 = new Автосервіс.Spacer();
             this.metroPanel33 = new MetroFramework.Controls.MetroPanel();
             this.metroButton16 = new MetroFramework.Controls.MetroButton();
+            this.spacer68 = new Автосервіс.Spacer();
             this.metroButton17 = new MetroFramework.Controls.MetroButton();
             this.metroButton20 = new MetroFramework.Controls.MetroButton();
+            this.spacer74 = new Автосервіс.Spacer();
             this.metroButton18 = new MetroFramework.Controls.MetroButton();
+            this.spacer69 = new Автосервіс.Spacer();
             this.label33 = new System.Windows.Forms.Label();
             this.metroPanel27 = new MetroFramework.Controls.MetroPanel();
             this.metroGrid3 = new MetroFramework.Controls.MetroGrid();
             this.label31 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
-            this.spacer73 = new Автосервіс.Spacer();
-            this.spacer70 = new Автосервіс.Spacer();
-            this.spacer71 = new Автосервіс.Spacer();
-            this.spacer72 = new Автосервіс.Spacer();
-            this.spacer64 = new Автосервіс.Spacer();
-            this.spacer62 = new Автосервіс.Spacer();
-            this.spacer63 = new Автосервіс.Spacer();
-            this.spacer65 = new Автосервіс.Spacer();
-            this.spacer66 = new Автосервіс.Spacer();
-            this.spacer67 = new Автосервіс.Spacer();
-            this.spacer68 = new Автосервіс.Spacer();
-            this.spacer74 = new Автосервіс.Spacer();
-            this.spacer69 = new Автосервіс.Spacer();
-            this.spacer58 = new Автосервіс.Spacer();
-            this.spacer59 = new Автосервіс.Spacer();
-            this.spacer60 = new Автосервіс.Spacer();
-            this.spacer61 = new Автосервіс.Spacer();
-            this.spacer56 = new Автосервіс.Spacer();
-            this.spacer57 = new Автосервіс.Spacer();
-            this.spacer54 = new Автосервіс.Spacer();
-            this.spacer55 = new Автосервіс.Spacer();
-            this.spacer53 = new Автосервіс.Spacer();
-            this.spacer52 = new Автосервіс.Spacer();
-            this.spacer51 = new Автосервіс.Spacer();
-            this.spacer50 = new Автосервіс.Spacer();
-            this.spacer48 = new Автосервіс.Spacer();
-            this.spacer49 = new Автосервіс.Spacer();
-            this.spacer46 = new Автосервіс.Spacer();
-            this.spacer47 = new Автосервіс.Spacer();
-            this.spacer42 = new Автосервіс.Spacer();
-            this.spacer45 = new Автосервіс.Spacer();
-            this.spacer43 = new Автосервіс.Spacer();
-            this.spacer44 = new Автосервіс.Spacer();
-            this.spacer41 = new Автосервіс.Spacer();
-            this.spacer40 = new Автосервіс.Spacer();
-            this.spacer39 = new Автосервіс.Spacer();
-            this.spacer29 = new Автосервіс.Spacer();
-            this.spacer30 = new Автосервіс.Spacer();
-            this.spacer31 = new Автосервіс.Spacer();
-            this.spacer32 = new Автосервіс.Spacer();
-            this.spacer33 = new Автосервіс.Spacer();
-            this.spacer34 = new Автосервіс.Spacer();
-            this.spacer35 = new Автосервіс.Spacer();
-            this.spacer36 = new Автосервіс.Spacer();
-            this.spacer37 = new Автосервіс.Spacer();
-            this.spacer38 = new Автосервіс.Spacer();
-            this.spacer28 = new Автосервіс.Spacer();
-            this.spacer17 = new Автосервіс.Spacer();
-            this.spacer16 = new Автосервіс.Spacer();
-            this.spacer15 = new Автосервіс.Spacer();
-            this.spacer23 = new Автосервіс.Spacer();
-            this.spacer27 = new Автосервіс.Spacer();
-            this.spacer26 = new Автосервіс.Spacer();
-            this.spacer25 = new Автосервіс.Spacer();
-            this.spacer24 = new Автосервіс.Spacer();
-            this.spacer18 = new Автосервіс.Spacer();
-            this.spacer19 = new Автосервіс.Spacer();
-            this.spacer20 = new Автосервіс.Spacer();
-            this.spacer21 = new Автосервіс.Spacer();
-            this.spacer22 = new Автосервіс.Spacer();
-            this.spacer14 = new Автосервіс.Spacer();
-            this.spacer2 = new Автосервіс.Spacer();
-            this.spacer3 = new Автосервіс.Spacer();
-            this.spacer1 = new Автосервіс.Spacer();
-            this.spacer5 = new Автосервіс.Spacer();
-            this.spacer12 = new Автосервіс.Spacer();
-            this.spacer11 = new Автосервіс.Spacer();
-            this.spacer10 = new Автосервіс.Spacer();
-            this.spacer8 = new Автосервіс.Spacer();
-            this.spacer9 = new Автосервіс.Spacer();
-            this.spacer7 = new Автосервіс.Spacer();
-            this.spacer13 = new Автосервіс.Spacer();
-            this.spacer6 = new Автосервіс.Spacer();
-            this.spacer4 = new Автосервіс.Spacer();
             ((System.ComponentModel.ISupportInitialize)(this.carsBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dbDataSetBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dbDataSet)).BeginInit();
@@ -381,6 +381,7 @@
             this.panel3.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
+            this.spacer8.SuspendLayout();
             this.metroPanelActionsVacations.SuspendLayout();
             this.metroPanel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.metroGridWorkersVacations)).BeginInit();
@@ -395,6 +396,7 @@
             this.panel6.SuspendLayout();
             this.panel7.SuspendLayout();
             this.panel8.SuspendLayout();
+            this.spacer21.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.metroStyleManager1)).BeginInit();
             this.metroPanelInstrument.SuspendLayout();
             this.metroPanel14.SuspendLayout();
@@ -406,6 +408,7 @@
             this.panel5.SuspendLayout();
             this.panel9.SuspendLayout();
             this.panel10.SuspendLayout();
+            this.spacer37.SuspendLayout();
             this.metroPanelWorkersReport.SuspendLayout();
             this.metroPanel20.SuspendLayout();
             this.metroPanel23.SuspendLayout();
@@ -431,13 +434,10 @@
             this.panel13.SuspendLayout();
             this.panel11.SuspendLayout();
             this.panel12.SuspendLayout();
+            this.spacer65.SuspendLayout();
             this.metroPanel33.SuspendLayout();
             this.metroPanel27.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.metroGrid3)).BeginInit();
-            this.spacer65.SuspendLayout();
-            this.spacer37.SuspendLayout();
-            this.spacer21.SuspendLayout();
-            this.spacer8.SuspendLayout();
             this.SuspendLayout();
             // 
             // carsBindingSource
@@ -814,6 +814,14 @@
             this.metroPanel18.VerticalScrollbarHighlightOnWheel = false;
             this.metroPanel18.VerticalScrollbarSize = 10;
             // 
+            // spacer46
+            // 
+            this.spacer46.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer46.Location = new System.Drawing.Point(0, 81);
+            this.spacer46.Name = "spacer46";
+            this.spacer46.Size = new System.Drawing.Size(1088, 18);
+            this.spacer46.TabIndex = 15;
+            // 
             // metroComboBox3
             // 
             this.metroComboBox3.Dock = System.Windows.Forms.DockStyle.Top;
@@ -824,6 +832,14 @@
             this.metroComboBox3.Size = new System.Drawing.Size(1088, 29);
             this.metroComboBox3.TabIndex = 16;
             this.metroComboBox3.UseSelectable = true;
+            // 
+            // spacer47
+            // 
+            this.spacer47.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer47.Location = new System.Drawing.Point(0, 33);
+            this.spacer47.Name = "spacer47";
+            this.spacer47.Size = new System.Drawing.Size(1088, 19);
+            this.spacer47.TabIndex = 13;
             // 
             // label19
             // 
@@ -855,6 +871,14 @@
             this.metroPanel17.VerticalScrollbarHighlightOnWheel = false;
             this.metroPanel17.VerticalScrollbarSize = 10;
             // 
+            // spacer42
+            // 
+            this.spacer42.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer42.Location = new System.Drawing.Point(0, 81);
+            this.spacer42.Name = "spacer42";
+            this.spacer42.Size = new System.Drawing.Size(1088, 18);
+            this.spacer42.TabIndex = 15;
+            // 
             // metroComboBox2
             // 
             this.metroComboBox2.Dock = System.Windows.Forms.DockStyle.Top;
@@ -865,6 +889,14 @@
             this.metroComboBox2.Size = new System.Drawing.Size(1088, 29);
             this.metroComboBox2.TabIndex = 16;
             this.metroComboBox2.UseSelectable = true;
+            // 
+            // spacer45
+            // 
+            this.spacer45.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer45.Location = new System.Drawing.Point(0, 33);
+            this.spacer45.Name = "spacer45";
+            this.spacer45.Size = new System.Drawing.Size(1088, 19);
+            this.spacer45.TabIndex = 13;
             // 
             // label18
             // 
@@ -896,6 +928,14 @@
             this.metroPanel16.VerticalScrollbarHighlightOnWheel = false;
             this.metroPanel16.VerticalScrollbarSize = 10;
             // 
+            // spacer43
+            // 
+            this.spacer43.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer43.Location = new System.Drawing.Point(0, 81);
+            this.spacer43.Name = "spacer43";
+            this.spacer43.Size = new System.Drawing.Size(1088, 18);
+            this.spacer43.TabIndex = 15;
+            // 
             // metroComboBox1
             // 
             this.metroComboBox1.Dock = System.Windows.Forms.DockStyle.Top;
@@ -907,6 +947,14 @@
             this.metroComboBox1.TabIndex = 16;
             this.metroComboBox1.UseSelectable = true;
             // 
+            // spacer44
+            // 
+            this.spacer44.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer44.Location = new System.Drawing.Point(0, 33);
+            this.spacer44.Name = "spacer44";
+            this.spacer44.Size = new System.Drawing.Size(1088, 19);
+            this.spacer44.TabIndex = 13;
+            // 
             // label17
             // 
             this.label17.Dock = System.Windows.Forms.DockStyle.Top;
@@ -917,6 +965,14 @@
             this.label17.TabIndex = 7;
             this.label17.Text = "Пошук за працівником";
             this.label17.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // spacer41
+            // 
+            this.spacer41.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer41.Location = new System.Drawing.Point(0, 377);
+            this.spacer41.Name = "spacer41";
+            this.spacer41.Size = new System.Drawing.Size(1090, 21);
+            this.spacer41.TabIndex = 6;
             // 
             // metroGridAct
             // 
@@ -1161,6 +1217,14 @@
             this.metroCheckBox1.Text = "Початкова дата";
             this.metroCheckBox1.UseSelectable = true;
             // 
+            // spacer48
+            // 
+            this.spacer48.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer48.Location = new System.Drawing.Point(0, 81);
+            this.spacer48.Name = "spacer48";
+            this.spacer48.Size = new System.Drawing.Size(1088, 18);
+            this.spacer48.TabIndex = 15;
+            // 
             // metroComboBox4
             // 
             this.metroComboBox4.Dock = System.Windows.Forms.DockStyle.Top;
@@ -1171,6 +1235,14 @@
             this.metroComboBox4.Size = new System.Drawing.Size(1088, 29);
             this.metroComboBox4.TabIndex = 16;
             this.metroComboBox4.UseSelectable = true;
+            // 
+            // spacer49
+            // 
+            this.spacer49.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer49.Location = new System.Drawing.Point(0, 33);
+            this.spacer49.Name = "spacer49";
+            this.spacer49.Size = new System.Drawing.Size(1088, 19);
+            this.spacer49.TabIndex = 13;
             // 
             // label20
             // 
@@ -1297,6 +1369,14 @@
             this.metroButtonClearWorkersInfo.Text = "Очистити";
             this.metroButtonClearWorkersInfo.UseSelectable = true;
             // 
+            // spacer2
+            // 
+            this.spacer2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer2.Location = new System.Drawing.Point(0, 364);
+            this.spacer2.Name = "spacer2";
+            this.spacer2.Size = new System.Drawing.Size(623, 27);
+            this.spacer2.TabIndex = 14;
+            // 
             // metroGridWorkers
             // 
             this.metroGridWorkers.AllowUserToAddRows = false;
@@ -1345,6 +1425,14 @@
             this.metroGridWorkers.Size = new System.Drawing.Size(623, 254);
             this.metroGridWorkers.TabIndex = 16;
             // 
+            // spacer3
+            // 
+            this.spacer3.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer3.Location = new System.Drawing.Point(0, 83);
+            this.spacer3.Name = "spacer3";
+            this.spacer3.Size = new System.Drawing.Size(623, 27);
+            this.spacer3.TabIndex = 15;
+            // 
             // metroTextBox1
             // 
             // 
@@ -1379,6 +1467,14 @@
             this.metroTextBox1.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox1.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             // 
+            // spacer1
+            // 
+            this.spacer1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer1.Location = new System.Drawing.Point(0, 33);
+            this.spacer1.Name = "spacer1";
+            this.spacer1.Size = new System.Drawing.Size(623, 27);
+            this.spacer1.TabIndex = 13;
+            // 
             // label4
             // 
             this.label4.Dock = System.Windows.Forms.DockStyle.Top;
@@ -1389,6 +1485,14 @@
             this.label4.TabIndex = 7;
             this.label4.Text = "Пошук за працівником";
             this.label4.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // spacer5
+            // 
+            this.spacer5.Dock = System.Windows.Forms.DockStyle.Right;
+            this.spacer5.Location = new System.Drawing.Point(625, 353);
+            this.spacer5.Name = "spacer5";
+            this.spacer5.Size = new System.Drawing.Size(49, 567);
+            this.spacer5.TabIndex = 15;
             // 
             // metroPanel3
             // 
@@ -1459,6 +1563,14 @@
             this.metroLabel4.TabIndex = 21;
             this.metroLabel4.Text = "Дата кінця: ";
             // 
+            // spacer12
+            // 
+            this.spacer12.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer12.Location = new System.Drawing.Point(0, 184);
+            this.spacer12.Name = "spacer12";
+            this.spacer12.Size = new System.Drawing.Size(414, 11);
+            this.spacer12.TabIndex = 29;
+            // 
             // panel3
             // 
             this.panel3.Controls.Add(this.metroDateTimeStartVacation);
@@ -1486,6 +1598,14 @@
             this.metroLabel3.Size = new System.Drawing.Size(95, 19);
             this.metroLabel3.TabIndex = 21;
             this.metroLabel3.Text = "Дата початку: ";
+            // 
+            // spacer11
+            // 
+            this.spacer11.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer11.Location = new System.Drawing.Point(0, 144);
+            this.spacer11.Name = "spacer11";
+            this.spacer11.Size = new System.Drawing.Size(414, 11);
+            this.spacer11.TabIndex = 26;
             // 
             // panel2
             // 
@@ -1548,6 +1668,14 @@
             this.metroLabel2.TabIndex = 21;
             this.metroLabel2.Text = "Причина: ";
             // 
+            // spacer10
+            // 
+            this.spacer10.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer10.Location = new System.Drawing.Point(0, 73);
+            this.spacer10.Name = "spacer10";
+            this.spacer10.Size = new System.Drawing.Size(414, 10);
+            this.spacer10.TabIndex = 22;
+            // 
             // panel1
             // 
             this.panel1.Controls.Add(this.metroTextBoxVacationsWorkerName);
@@ -1600,6 +1728,23 @@
             this.metroLabel1.TabIndex = 21;
             this.metroLabel1.Text = "ПІБ працівника: ";
             // 
+            // spacer8
+            // 
+            this.spacer8.Controls.Add(this.spacer9);
+            this.spacer8.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer8.Location = new System.Drawing.Point(0, 33);
+            this.spacer8.Name = "spacer8";
+            this.spacer8.Size = new System.Drawing.Size(414, 11);
+            this.spacer8.TabIndex = 20;
+            // 
+            // spacer9
+            // 
+            this.spacer9.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer9.Location = new System.Drawing.Point(0, 0);
+            this.spacer9.Name = "spacer9";
+            this.spacer9.Size = new System.Drawing.Size(414, 11);
+            this.spacer9.TabIndex = 21;
+            // 
             // label6
             // 
             this.label6.Dock = System.Windows.Forms.DockStyle.Top;
@@ -1610,6 +1755,14 @@
             this.label6.TabIndex = 19;
             this.label6.Text = "Дані про пропуск";
             this.label6.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // spacer7
+            // 
+            this.spacer7.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.spacer7.Location = new System.Drawing.Point(0, 411);
+            this.spacer7.Name = "spacer7";
+            this.spacer7.Size = new System.Drawing.Size(416, 28);
+            this.spacer7.TabIndex = 17;
             // 
             // metroPanelActionsVacations
             // 
@@ -1645,6 +1798,14 @@
             this.metroButtonCancelVacation.UseSelectable = true;
             this.metroButtonCancelVacation.Click += new System.EventHandler(this.metroButtonCancelVacation_Click);
             // 
+            // spacer13
+            // 
+            this.spacer13.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer13.Location = new System.Drawing.Point(0, 118);
+            this.spacer13.Name = "spacer13";
+            this.spacer13.Size = new System.Drawing.Size(414, 2);
+            this.spacer13.TabIndex = 27;
+            // 
             // metroButtonSaveVacation
             // 
             this.metroButtonSaveVacation.AutoSize = true;
@@ -1671,6 +1832,14 @@
             this.metroButtonAddVaction.UseSelectable = true;
             this.metroButtonAddVaction.Click += new System.EventHandler(this.metroButtonAddVaction_Click);
             // 
+            // spacer6
+            // 
+            this.spacer6.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer6.Location = new System.Drawing.Point(0, 33);
+            this.spacer6.Name = "spacer6";
+            this.spacer6.Size = new System.Drawing.Size(414, 11);
+            this.spacer6.TabIndex = 19;
+            // 
             // label5
             // 
             this.label5.Dock = System.Windows.Forms.DockStyle.Top;
@@ -1681,6 +1850,14 @@
             this.label5.TabIndex = 18;
             this.label5.Text = "Операції";
             this.label5.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // spacer4
+            // 
+            this.spacer4.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer4.Location = new System.Drawing.Point(0, 326);
+            this.spacer4.Name = "spacer4";
+            this.spacer4.Size = new System.Drawing.Size(1090, 27);
+            this.spacer4.TabIndex = 14;
             // 
             // metroPanel2
             // 
@@ -1801,6 +1978,14 @@
             this.metroPanelUsers.VerticalScrollbarSize = 10;
             this.metroPanelUsers.Visible = false;
             // 
+            // spacer17
+            // 
+            this.spacer17.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.spacer17.Location = new System.Drawing.Point(0, 832);
+            this.spacer17.Name = "spacer17";
+            this.spacer17.Size = new System.Drawing.Size(658, 10);
+            this.spacer17.TabIndex = 13;
+            // 
             // metroPanel7
             // 
             this.metroPanel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
@@ -1852,6 +2037,14 @@
             this.metroTextBoxSearchUser.WaterMark = "Поле для вводу";
             this.metroTextBoxSearchUser.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBoxSearchUser.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            // 
+            // spacer16
+            // 
+            this.spacer16.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer16.Location = new System.Drawing.Point(0, 33);
+            this.spacer16.Name = "spacer16";
+            this.spacer16.Size = new System.Drawing.Size(656, 10);
+            this.spacer16.TabIndex = 8;
             // 
             // label9
             // 
@@ -1940,6 +2133,14 @@
             this.label7.Text = "Таблиця даних про користувачів";
             this.label7.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
+            // spacer15
+            // 
+            this.spacer15.Dock = System.Windows.Forms.DockStyle.Right;
+            this.spacer15.Location = new System.Drawing.Point(658, 58);
+            this.spacer15.Name = "spacer15";
+            this.spacer15.Size = new System.Drawing.Size(34, 862);
+            this.spacer15.TabIndex = 11;
+            // 
             // metroPanel6
             // 
             this.metroPanel6.Controls.Add(this.metroPanel8);
@@ -2018,6 +2219,14 @@
             this.metroButtonCancelUser.Text = "Скасувати";
             this.metroButtonCancelUser.UseSelectable = true;
             // 
+            // spacer23
+            // 
+            this.spacer23.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer23.Location = new System.Drawing.Point(0, 235);
+            this.spacer23.Name = "spacer23";
+            this.spacer23.Size = new System.Drawing.Size(394, 2);
+            this.spacer23.TabIndex = 27;
+            // 
             // metroButtonSaveUser
             // 
             this.metroButtonSaveUser.AutoSize = true;
@@ -2042,6 +2251,14 @@
             this.metroButtonDeleteUser.Text = "Видалити користувача";
             this.metroButtonDeleteUser.UseSelectable = true;
             // 
+            // spacer27
+            // 
+            this.spacer27.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer27.Location = new System.Drawing.Point(0, 159);
+            this.spacer27.Name = "spacer27";
+            this.spacer27.Size = new System.Drawing.Size(394, 2);
+            this.spacer27.TabIndex = 30;
+            // 
             // metroButtonChangePassword
             // 
             this.metroButtonChangePassword.AutoSize = true;
@@ -2053,6 +2270,14 @@
             this.metroButtonChangePassword.TabIndex = 21;
             this.metroButtonChangePassword.Text = "Змінити пароль";
             this.metroButtonChangePassword.UseSelectable = true;
+            // 
+            // spacer26
+            // 
+            this.spacer26.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer26.Location = new System.Drawing.Point(0, 120);
+            this.spacer26.Name = "spacer26";
+            this.spacer26.Size = new System.Drawing.Size(394, 2);
+            this.spacer26.TabIndex = 29;
             // 
             // metroButtonChangeAccess
             // 
@@ -2066,6 +2291,14 @@
             this.metroButtonChangeAccess.Text = "Змінити рівень доступу";
             this.metroButtonChangeAccess.UseSelectable = true;
             // 
+            // spacer25
+            // 
+            this.spacer25.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer25.Location = new System.Drawing.Point(0, 81);
+            this.spacer25.Name = "spacer25";
+            this.spacer25.Size = new System.Drawing.Size(394, 2);
+            this.spacer25.TabIndex = 28;
+            // 
             // metroButtonAddUser
             // 
             this.metroButtonAddUser.AutoSize = true;
@@ -2078,6 +2311,14 @@
             this.metroButtonAddUser.Text = "Додати користувача";
             this.metroButtonAddUser.UseSelectable = true;
             // 
+            // spacer24
+            // 
+            this.spacer24.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer24.Location = new System.Drawing.Point(0, 33);
+            this.spacer24.Name = "spacer24";
+            this.spacer24.Size = new System.Drawing.Size(394, 11);
+            this.spacer24.TabIndex = 19;
+            // 
             // label11
             // 
             this.label11.Dock = System.Windows.Forms.DockStyle.Top;
@@ -2088,6 +2329,14 @@
             this.label11.TabIndex = 18;
             this.label11.Text = "Операції";
             this.label11.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // spacer18
+            // 
+            this.spacer18.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer18.Location = new System.Drawing.Point(0, 152);
+            this.spacer18.Name = "spacer18";
+            this.spacer18.Size = new System.Drawing.Size(396, 11);
+            this.spacer18.TabIndex = 29;
             // 
             // panel6
             // 
@@ -2119,6 +2368,14 @@
             this.metroLabel6.Size = new System.Drawing.Size(95, 19);
             this.metroLabel6.TabIndex = 21;
             this.metroLabel6.Text = "Дата початку: ";
+            // 
+            // spacer19
+            // 
+            this.spacer19.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer19.Location = new System.Drawing.Point(0, 112);
+            this.spacer19.Name = "spacer19";
+            this.spacer19.Size = new System.Drawing.Size(396, 11);
+            this.spacer19.TabIndex = 26;
             // 
             // panel7
             // 
@@ -2172,6 +2429,14 @@
             this.metroLabel7.TabIndex = 21;
             this.metroLabel7.Text = "Пароль:";
             // 
+            // spacer20
+            // 
+            this.spacer20.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer20.Location = new System.Drawing.Point(0, 73);
+            this.spacer20.Name = "spacer20";
+            this.spacer20.Size = new System.Drawing.Size(396, 10);
+            this.spacer20.TabIndex = 22;
+            // 
             // panel8
             // 
             this.panel8.Controls.Add(this.metroTextBoxLogin);
@@ -2224,6 +2489,23 @@
             this.metroLabelLogin.TabIndex = 21;
             this.metroLabelLogin.Text = "Логін:";
             // 
+            // spacer21
+            // 
+            this.spacer21.Controls.Add(this.spacer22);
+            this.spacer21.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer21.Location = new System.Drawing.Point(0, 33);
+            this.spacer21.Name = "spacer21";
+            this.spacer21.Size = new System.Drawing.Size(396, 11);
+            this.spacer21.TabIndex = 20;
+            // 
+            // spacer22
+            // 
+            this.spacer22.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer22.Location = new System.Drawing.Point(0, 0);
+            this.spacer22.Name = "spacer22";
+            this.spacer22.Size = new System.Drawing.Size(396, 11);
+            this.spacer22.TabIndex = 21;
+            // 
             // label10
             // 
             this.label10.Dock = System.Windows.Forms.DockStyle.Top;
@@ -2234,6 +2516,14 @@
             this.label10.TabIndex = 19;
             this.label10.Text = "Дані про пропуск";
             this.label10.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // spacer14
+            // 
+            this.spacer14.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer14.Location = new System.Drawing.Point(0, 37);
+            this.spacer14.Name = "spacer14";
+            this.spacer14.Size = new System.Drawing.Size(1090, 21);
+            this.spacer14.TabIndex = 10;
             // 
             // label8
             // 
@@ -2323,6 +2613,14 @@
             this.metroTextBoxInstrumentSearch.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBoxInstrumentSearch.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             // 
+            // spacer40
+            // 
+            this.spacer40.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer40.Location = new System.Drawing.Point(0, 33);
+            this.spacer40.Name = "spacer40";
+            this.spacer40.Size = new System.Drawing.Size(656, 10);
+            this.spacer40.TabIndex = 8;
+            // 
             // label16
             // 
             this.label16.Dock = System.Windows.Forms.DockStyle.Top;
@@ -2411,6 +2709,14 @@
             this.label15.Text = "Таблиця даних про інструмент";
             this.label15.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
+            // spacer39
+            // 
+            this.spacer39.Dock = System.Windows.Forms.DockStyle.Right;
+            this.spacer39.Location = new System.Drawing.Point(658, 58);
+            this.spacer39.Name = "spacer39";
+            this.spacer39.Size = new System.Drawing.Size(34, 862);
+            this.spacer39.TabIndex = 14;
+            // 
             // metroPanel10
             // 
             this.metroPanel10.Controls.Add(this.metroPanel11);
@@ -2487,6 +2793,14 @@
             this.metroButtonCancelInstrument.Text = "Скасувати";
             this.metroButtonCancelInstrument.UseSelectable = true;
             // 
+            // spacer29
+            // 
+            this.spacer29.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer29.Location = new System.Drawing.Point(0, 161);
+            this.spacer29.Name = "spacer29";
+            this.spacer29.Size = new System.Drawing.Size(394, 2);
+            this.spacer29.TabIndex = 27;
+            // 
             // metroButtonSaveInstrument
             // 
             this.metroButtonSaveInstrument.AutoSize = true;
@@ -2498,6 +2812,22 @@
             this.metroButtonSaveInstrument.TabIndex = 21;
             this.metroButtonSaveInstrument.Text = "Зберегти";
             this.metroButtonSaveInstrument.UseSelectable = true;
+            // 
+            // spacer30
+            // 
+            this.spacer30.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer30.Location = new System.Drawing.Point(0, 122);
+            this.spacer30.Name = "spacer30";
+            this.spacer30.Size = new System.Drawing.Size(394, 2);
+            this.spacer30.TabIndex = 30;
+            // 
+            // spacer31
+            // 
+            this.spacer31.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer31.Location = new System.Drawing.Point(0, 120);
+            this.spacer31.Name = "spacer31";
+            this.spacer31.Size = new System.Drawing.Size(394, 2);
+            this.spacer31.TabIndex = 29;
             // 
             // metroButtonChangeInstrument
             // 
@@ -2511,6 +2841,14 @@
             this.metroButtonChangeInstrument.Text = "Змінити дані";
             this.metroButtonChangeInstrument.UseSelectable = true;
             // 
+            // spacer32
+            // 
+            this.spacer32.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer32.Location = new System.Drawing.Point(0, 81);
+            this.spacer32.Name = "spacer32";
+            this.spacer32.Size = new System.Drawing.Size(394, 2);
+            this.spacer32.TabIndex = 28;
+            // 
             // metroButtonAddInstrument
             // 
             this.metroButtonAddInstrument.AutoSize = true;
@@ -2523,6 +2861,14 @@
             this.metroButtonAddInstrument.Text = "Додати інструмент";
             this.metroButtonAddInstrument.UseSelectable = true;
             // 
+            // spacer33
+            // 
+            this.spacer33.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer33.Location = new System.Drawing.Point(0, 33);
+            this.spacer33.Name = "spacer33";
+            this.spacer33.Size = new System.Drawing.Size(394, 11);
+            this.spacer33.TabIndex = 19;
+            // 
             // label13
             // 
             this.label13.Dock = System.Windows.Forms.DockStyle.Top;
@@ -2533,6 +2879,14 @@
             this.label13.TabIndex = 18;
             this.label13.Text = "Операції";
             this.label13.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // spacer34
+            // 
+            this.spacer34.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer34.Location = new System.Drawing.Point(0, 152);
+            this.spacer34.Name = "spacer34";
+            this.spacer34.Size = new System.Drawing.Size(396, 11);
+            this.spacer34.TabIndex = 29;
             // 
             // panel5
             // 
@@ -2598,6 +2952,14 @@
             this.metroLabel5.TabIndex = 21;
             this.metroLabel5.Text = "Термін експлуатації: ";
             // 
+            // spacer35
+            // 
+            this.spacer35.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer35.Location = new System.Drawing.Point(0, 112);
+            this.spacer35.Name = "spacer35";
+            this.spacer35.Size = new System.Drawing.Size(396, 11);
+            this.spacer35.TabIndex = 26;
+            // 
             // panel9
             // 
             this.panel9.Controls.Add(this.metroTextBoxInstrumentPrice);
@@ -2649,6 +3011,14 @@
             this.metroLabel8.Size = new System.Drawing.Size(40, 19);
             this.metroLabel8.TabIndex = 21;
             this.metroLabel8.Text = "Ціна:";
+            // 
+            // spacer36
+            // 
+            this.spacer36.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer36.Location = new System.Drawing.Point(0, 73);
+            this.spacer36.Name = "spacer36";
+            this.spacer36.Size = new System.Drawing.Size(396, 10);
+            this.spacer36.TabIndex = 22;
             // 
             // panel10
             // 
@@ -2702,6 +3072,23 @@
             this.metroLabel9.TabIndex = 21;
             this.metroLabel9.Text = "Назва:";
             // 
+            // spacer37
+            // 
+            this.spacer37.Controls.Add(this.spacer38);
+            this.spacer37.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer37.Location = new System.Drawing.Point(0, 33);
+            this.spacer37.Name = "spacer37";
+            this.spacer37.Size = new System.Drawing.Size(396, 11);
+            this.spacer37.TabIndex = 20;
+            // 
+            // spacer38
+            // 
+            this.spacer38.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer38.Location = new System.Drawing.Point(0, 0);
+            this.spacer38.Name = "spacer38";
+            this.spacer38.Size = new System.Drawing.Size(396, 11);
+            this.spacer38.TabIndex = 21;
+            // 
             // label14
             // 
             this.label14.Dock = System.Windows.Forms.DockStyle.Top;
@@ -2712,6 +3099,15 @@
             this.label14.TabIndex = 19;
             this.label14.Text = "Дані про інструмент";
             this.label14.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // spacer28
+            // 
+            this.spacer28.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer28.Location = new System.Drawing.Point(0, 37);
+            this.spacer28.Name = "spacer28";
+            this.spacer28.Size = new System.Drawing.Size(1090, 21);
+            this.spacer28.TabIndex = 12;
+            this.spacer28.Paint += new System.Windows.Forms.PaintEventHandler(this.spacer28_Paint);
             // 
             // label12
             // 
@@ -2803,6 +3199,14 @@
             this.metroButton8.Text = "Очистити";
             this.metroButton8.UseSelectable = true;
             // 
+            // spacer53
+            // 
+            this.spacer53.Dock = System.Windows.Forms.DockStyle.Right;
+            this.spacer53.Location = new System.Drawing.Point(957, 0);
+            this.spacer53.Name = "spacer53";
+            this.spacer53.Size = new System.Drawing.Size(133, 55);
+            this.spacer53.TabIndex = 22;
+            // 
             // metroButton9
             // 
             this.metroButton9.AutoSize = true;
@@ -2814,6 +3218,14 @@
             this.metroButton9.TabIndex = 19;
             this.metroButton9.Text = "Знайти";
             this.metroButton9.UseSelectable = true;
+            // 
+            // spacer52
+            // 
+            this.spacer52.Dock = System.Windows.Forms.DockStyle.Left;
+            this.spacer52.Location = new System.Drawing.Point(0, 0);
+            this.spacer52.Name = "spacer52";
+            this.spacer52.Size = new System.Drawing.Size(133, 55);
+            this.spacer52.TabIndex = 21;
             // 
             // metroPanel22
             // 
@@ -2866,6 +3278,14 @@
             this.metroTextBox3.WaterMark = "Поле для вводу";
             this.metroTextBox3.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox3.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            // 
+            // spacer51
+            // 
+            this.spacer51.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer51.Location = new System.Drawing.Point(0, 33);
+            this.spacer51.Name = "spacer51";
+            this.spacer51.Size = new System.Drawing.Size(1088, 10);
+            this.spacer51.TabIndex = 8;
             // 
             // label23
             // 
@@ -2929,6 +3349,14 @@
             this.metroTextBox2.WaterMark = "Поле для вводу";
             this.metroTextBox2.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox2.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            // 
+            // spacer50
+            // 
+            this.spacer50.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer50.Location = new System.Drawing.Point(0, 33);
+            this.spacer50.Name = "spacer50";
+            this.spacer50.Size = new System.Drawing.Size(1088, 10);
+            this.spacer50.TabIndex = 8;
             // 
             // label22
             // 
@@ -3108,6 +3536,14 @@
             this.metroPanel26.VerticalScrollbarHighlightOnWheel = false;
             this.metroPanel26.VerticalScrollbarSize = 10;
             // 
+            // spacer56
+            // 
+            this.spacer56.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer56.Location = new System.Drawing.Point(0, 81);
+            this.spacer56.Name = "spacer56";
+            this.spacer56.Size = new System.Drawing.Size(1086, 18);
+            this.spacer56.TabIndex = 15;
+            // 
             // metroComboBox6
             // 
             this.metroComboBox6.Dock = System.Windows.Forms.DockStyle.Top;
@@ -3118,6 +3554,14 @@
             this.metroComboBox6.Size = new System.Drawing.Size(1086, 29);
             this.metroComboBox6.TabIndex = 16;
             this.metroComboBox6.UseSelectable = true;
+            // 
+            // spacer57
+            // 
+            this.spacer57.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer57.Location = new System.Drawing.Point(0, 33);
+            this.spacer57.Name = "spacer57";
+            this.spacer57.Size = new System.Drawing.Size(1086, 19);
+            this.spacer57.TabIndex = 13;
             // 
             // label27
             // 
@@ -3130,6 +3574,14 @@
             this.label27.Text = "Пошук за інструментом";
             this.label27.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
+            // spacer54
+            // 
+            this.spacer54.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer54.Location = new System.Drawing.Point(0, 81);
+            this.spacer54.Name = "spacer54";
+            this.spacer54.Size = new System.Drawing.Size(1088, 18);
+            this.spacer54.TabIndex = 15;
+            // 
             // metroComboBox5
             // 
             this.metroComboBox5.Dock = System.Windows.Forms.DockStyle.Top;
@@ -3140,6 +3592,14 @@
             this.metroComboBox5.Size = new System.Drawing.Size(1088, 29);
             this.metroComboBox5.TabIndex = 16;
             this.metroComboBox5.UseSelectable = true;
+            // 
+            // spacer55
+            // 
+            this.spacer55.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer55.Location = new System.Drawing.Point(0, 33);
+            this.spacer55.Name = "spacer55";
+            this.spacer55.Size = new System.Drawing.Size(1088, 19);
+            this.spacer55.TabIndex = 13;
             // 
             // label24
             // 
@@ -3319,6 +3779,14 @@
             this.metroPanel30.VerticalScrollbarHighlightOnWheel = false;
             this.metroPanel30.VerticalScrollbarSize = 10;
             // 
+            // spacer58
+            // 
+            this.spacer58.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer58.Location = new System.Drawing.Point(0, 81);
+            this.spacer58.Name = "spacer58";
+            this.spacer58.Size = new System.Drawing.Size(1086, 18);
+            this.spacer58.TabIndex = 15;
+            // 
             // metroComboBox7
             // 
             this.metroComboBox7.Dock = System.Windows.Forms.DockStyle.Top;
@@ -3329,6 +3797,14 @@
             this.metroComboBox7.Size = new System.Drawing.Size(1086, 29);
             this.metroComboBox7.TabIndex = 16;
             this.metroComboBox7.UseSelectable = true;
+            // 
+            // spacer59
+            // 
+            this.spacer59.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer59.Location = new System.Drawing.Point(0, 33);
+            this.spacer59.Name = "spacer59";
+            this.spacer59.Size = new System.Drawing.Size(1086, 19);
+            this.spacer59.TabIndex = 13;
             // 
             // label26
             // 
@@ -3341,6 +3817,14 @@
             this.label26.Text = "Пошук за інструментом";
             this.label26.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
+            // spacer60
+            // 
+            this.spacer60.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer60.Location = new System.Drawing.Point(0, 81);
+            this.spacer60.Name = "spacer60";
+            this.spacer60.Size = new System.Drawing.Size(1088, 18);
+            this.spacer60.TabIndex = 15;
+            // 
             // metroComboBox8
             // 
             this.metroComboBox8.Dock = System.Windows.Forms.DockStyle.Top;
@@ -3351,6 +3835,14 @@
             this.metroComboBox8.Size = new System.Drawing.Size(1088, 29);
             this.metroComboBox8.TabIndex = 16;
             this.metroComboBox8.UseSelectable = true;
+            // 
+            // spacer61
+            // 
+            this.spacer61.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer61.Location = new System.Drawing.Point(0, 33);
+            this.spacer61.Name = "spacer61";
+            this.spacer61.Size = new System.Drawing.Size(1088, 19);
+            this.spacer61.TabIndex = 13;
             // 
             // label28
             // 
@@ -3439,6 +3931,7 @@
             this.metroPanelInstrumentWorkers.VerticalScrollbarBarColor = true;
             this.metroPanelInstrumentWorkers.VerticalScrollbarHighlightOnWheel = false;
             this.metroPanelInstrumentWorkers.VerticalScrollbarSize = 10;
+            this.metroPanelInstrumentWorkers.Visible = false;
             // 
             // metroPanel34
             // 
@@ -3527,6 +4020,14 @@
             this.metroTextBox7.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox7.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             // 
+            // spacer73
+            // 
+            this.spacer73.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer73.Location = new System.Drawing.Point(0, 33);
+            this.spacer73.Name = "spacer73";
+            this.spacer73.Size = new System.Drawing.Size(670, 10);
+            this.spacer73.TabIndex = 8;
+            // 
             // label35
             // 
             this.label35.Dock = System.Windows.Forms.DockStyle.Top;
@@ -3537,6 +4038,14 @@
             this.label35.TabIndex = 7;
             this.label35.Text = "Пошук за назвою інструмента";
             this.label35.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // spacer70
+            // 
+            this.spacer70.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer70.Location = new System.Drawing.Point(0, 364);
+            this.spacer70.Name = "spacer70";
+            this.spacer70.Size = new System.Drawing.Size(672, 27);
+            this.spacer70.TabIndex = 14;
             // 
             // metroGrid4
             // 
@@ -3586,6 +4095,14 @@
             this.metroGrid4.Size = new System.Drawing.Size(672, 254);
             this.metroGrid4.TabIndex = 16;
             // 
+            // spacer71
+            // 
+            this.spacer71.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer71.Location = new System.Drawing.Point(0, 83);
+            this.spacer71.Name = "spacer71";
+            this.spacer71.Size = new System.Drawing.Size(672, 27);
+            this.spacer71.TabIndex = 15;
+            // 
             // metroTextBox6
             // 
             // 
@@ -3619,6 +4136,14 @@
             this.metroTextBox6.WaterMark = "Поле для вводу";
             this.metroTextBox6.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox6.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            // 
+            // spacer72
+            // 
+            this.spacer72.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer72.Location = new System.Drawing.Point(0, 33);
+            this.spacer72.Name = "spacer72";
+            this.spacer72.Size = new System.Drawing.Size(672, 27);
+            this.spacer72.TabIndex = 13;
             // 
             // label34
             // 
@@ -3732,6 +4257,14 @@
             this.metroLabel14.TabIndex = 21;
             this.metroLabel14.Text = "Причина: ";
             // 
+            // spacer64
+            // 
+            this.spacer64.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer64.Location = new System.Drawing.Point(0, 124);
+            this.spacer64.Name = "spacer64";
+            this.spacer64.Size = new System.Drawing.Size(414, 10);
+            this.spacer64.TabIndex = 22;
+            // 
             // panel11
             // 
             this.panel11.Controls.Add(this.metroDateTime5);
@@ -3759,6 +4292,14 @@
             this.metroLabel12.Size = new System.Drawing.Size(106, 19);
             this.metroLabel12.TabIndex = 21;
             this.metroLabel12.Text = "Дата списання: ";
+            // 
+            // spacer62
+            // 
+            this.spacer62.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer62.Location = new System.Drawing.Point(0, 84);
+            this.spacer62.Name = "spacer62";
+            this.spacer62.Size = new System.Drawing.Size(414, 11);
+            this.spacer62.TabIndex = 29;
             // 
             // panel12
             // 
@@ -3788,6 +4329,31 @@
             this.metroLabel13.TabIndex = 21;
             this.metroLabel13.Text = "Дата видачі: ";
             // 
+            // spacer63
+            // 
+            this.spacer63.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer63.Location = new System.Drawing.Point(0, 44);
+            this.spacer63.Name = "spacer63";
+            this.spacer63.Size = new System.Drawing.Size(414, 11);
+            this.spacer63.TabIndex = 26;
+            // 
+            // spacer65
+            // 
+            this.spacer65.Controls.Add(this.spacer66);
+            this.spacer65.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer65.Location = new System.Drawing.Point(0, 33);
+            this.spacer65.Name = "spacer65";
+            this.spacer65.Size = new System.Drawing.Size(414, 11);
+            this.spacer65.TabIndex = 20;
+            // 
+            // spacer66
+            // 
+            this.spacer66.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer66.Location = new System.Drawing.Point(0, 0);
+            this.spacer66.Name = "spacer66";
+            this.spacer66.Size = new System.Drawing.Size(414, 11);
+            this.spacer66.TabIndex = 21;
+            // 
             // label32
             // 
             this.label32.Dock = System.Windows.Forms.DockStyle.Top;
@@ -3798,6 +4364,14 @@
             this.label32.TabIndex = 19;
             this.label32.Text = "Дані про інструмент";
             this.label32.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // spacer67
+            // 
+            this.spacer67.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.spacer67.Location = new System.Drawing.Point(0, 437);
+            this.spacer67.Name = "spacer67";
+            this.spacer67.Size = new System.Drawing.Size(416, 28);
+            this.spacer67.TabIndex = 17;
             // 
             // metroPanel33
             // 
@@ -3834,6 +4408,14 @@
             this.metroButton16.Text = "Скасувати";
             this.metroButton16.UseSelectable = true;
             // 
+            // spacer68
+            // 
+            this.spacer68.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer68.Location = new System.Drawing.Point(0, 157);
+            this.spacer68.Name = "spacer68";
+            this.spacer68.Size = new System.Drawing.Size(414, 2);
+            this.spacer68.TabIndex = 27;
+            // 
             // metroButton17
             // 
             this.metroButton17.AutoSize = true;
@@ -3858,6 +4440,14 @@
             this.metroButton20.Text = "Оновити запис про інструмент";
             this.metroButton20.UseSelectable = true;
             // 
+            // spacer74
+            // 
+            this.spacer74.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer74.Location = new System.Drawing.Point(0, 81);
+            this.spacer74.Name = "spacer74";
+            this.spacer74.Size = new System.Drawing.Size(414, 2);
+            this.spacer74.TabIndex = 28;
+            // 
             // metroButton18
             // 
             this.metroButton18.AutoSize = true;
@@ -3869,6 +4459,14 @@
             this.metroButton18.TabIndex = 20;
             this.metroButton18.Text = "Cтворити запис про інструмент";
             this.metroButton18.UseSelectable = true;
+            // 
+            // spacer69
+            // 
+            this.spacer69.Dock = System.Windows.Forms.DockStyle.Top;
+            this.spacer69.Location = new System.Drawing.Point(0, 33);
+            this.spacer69.Name = "spacer69";
+            this.spacer69.Size = new System.Drawing.Size(414, 11);
+            this.spacer69.TabIndex = 19;
             // 
             // label33
             // 
@@ -3968,603 +4566,6 @@
             this.label30.Text = "Редагувати дані про облік інструменту";
             this.label30.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
-            // spacer73
-            // 
-            this.spacer73.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer73.Location = new System.Drawing.Point(0, 33);
-            this.spacer73.Name = "spacer73";
-            this.spacer73.Size = new System.Drawing.Size(670, 10);
-            this.spacer73.TabIndex = 8;
-            // 
-            // spacer70
-            // 
-            this.spacer70.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer70.Location = new System.Drawing.Point(0, 364);
-            this.spacer70.Name = "spacer70";
-            this.spacer70.Size = new System.Drawing.Size(672, 27);
-            this.spacer70.TabIndex = 14;
-            // 
-            // spacer71
-            // 
-            this.spacer71.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer71.Location = new System.Drawing.Point(0, 83);
-            this.spacer71.Name = "spacer71";
-            this.spacer71.Size = new System.Drawing.Size(672, 27);
-            this.spacer71.TabIndex = 15;
-            // 
-            // spacer72
-            // 
-            this.spacer72.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer72.Location = new System.Drawing.Point(0, 33);
-            this.spacer72.Name = "spacer72";
-            this.spacer72.Size = new System.Drawing.Size(672, 27);
-            this.spacer72.TabIndex = 13;
-            // 
-            // spacer64
-            // 
-            this.spacer64.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer64.Location = new System.Drawing.Point(0, 124);
-            this.spacer64.Name = "spacer64";
-            this.spacer64.Size = new System.Drawing.Size(414, 10);
-            this.spacer64.TabIndex = 22;
-            // 
-            // spacer62
-            // 
-            this.spacer62.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer62.Location = new System.Drawing.Point(0, 84);
-            this.spacer62.Name = "spacer62";
-            this.spacer62.Size = new System.Drawing.Size(414, 11);
-            this.spacer62.TabIndex = 29;
-            // 
-            // spacer63
-            // 
-            this.spacer63.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer63.Location = new System.Drawing.Point(0, 44);
-            this.spacer63.Name = "spacer63";
-            this.spacer63.Size = new System.Drawing.Size(414, 11);
-            this.spacer63.TabIndex = 26;
-            // 
-            // spacer65
-            // 
-            this.spacer65.Controls.Add(this.spacer66);
-            this.spacer65.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer65.Location = new System.Drawing.Point(0, 33);
-            this.spacer65.Name = "spacer65";
-            this.spacer65.Size = new System.Drawing.Size(414, 11);
-            this.spacer65.TabIndex = 20;
-            // 
-            // spacer66
-            // 
-            this.spacer66.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer66.Location = new System.Drawing.Point(0, 0);
-            this.spacer66.Name = "spacer66";
-            this.spacer66.Size = new System.Drawing.Size(414, 11);
-            this.spacer66.TabIndex = 21;
-            // 
-            // spacer67
-            // 
-            this.spacer67.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.spacer67.Location = new System.Drawing.Point(0, 437);
-            this.spacer67.Name = "spacer67";
-            this.spacer67.Size = new System.Drawing.Size(416, 28);
-            this.spacer67.TabIndex = 17;
-            // 
-            // spacer68
-            // 
-            this.spacer68.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer68.Location = new System.Drawing.Point(0, 157);
-            this.spacer68.Name = "spacer68";
-            this.spacer68.Size = new System.Drawing.Size(414, 2);
-            this.spacer68.TabIndex = 27;
-            // 
-            // spacer74
-            // 
-            this.spacer74.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer74.Location = new System.Drawing.Point(0, 81);
-            this.spacer74.Name = "spacer74";
-            this.spacer74.Size = new System.Drawing.Size(414, 2);
-            this.spacer74.TabIndex = 28;
-            // 
-            // spacer69
-            // 
-            this.spacer69.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer69.Location = new System.Drawing.Point(0, 33);
-            this.spacer69.Name = "spacer69";
-            this.spacer69.Size = new System.Drawing.Size(414, 11);
-            this.spacer69.TabIndex = 19;
-            // 
-            // spacer58
-            // 
-            this.spacer58.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer58.Location = new System.Drawing.Point(0, 81);
-            this.spacer58.Name = "spacer58";
-            this.spacer58.Size = new System.Drawing.Size(1086, 18);
-            this.spacer58.TabIndex = 15;
-            // 
-            // spacer59
-            // 
-            this.spacer59.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer59.Location = new System.Drawing.Point(0, 33);
-            this.spacer59.Name = "spacer59";
-            this.spacer59.Size = new System.Drawing.Size(1086, 19);
-            this.spacer59.TabIndex = 13;
-            // 
-            // spacer60
-            // 
-            this.spacer60.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer60.Location = new System.Drawing.Point(0, 81);
-            this.spacer60.Name = "spacer60";
-            this.spacer60.Size = new System.Drawing.Size(1088, 18);
-            this.spacer60.TabIndex = 15;
-            // 
-            // spacer61
-            // 
-            this.spacer61.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer61.Location = new System.Drawing.Point(0, 33);
-            this.spacer61.Name = "spacer61";
-            this.spacer61.Size = new System.Drawing.Size(1088, 19);
-            this.spacer61.TabIndex = 13;
-            // 
-            // spacer56
-            // 
-            this.spacer56.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer56.Location = new System.Drawing.Point(0, 81);
-            this.spacer56.Name = "spacer56";
-            this.spacer56.Size = new System.Drawing.Size(1086, 18);
-            this.spacer56.TabIndex = 15;
-            // 
-            // spacer57
-            // 
-            this.spacer57.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer57.Location = new System.Drawing.Point(0, 33);
-            this.spacer57.Name = "spacer57";
-            this.spacer57.Size = new System.Drawing.Size(1086, 19);
-            this.spacer57.TabIndex = 13;
-            // 
-            // spacer54
-            // 
-            this.spacer54.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer54.Location = new System.Drawing.Point(0, 81);
-            this.spacer54.Name = "spacer54";
-            this.spacer54.Size = new System.Drawing.Size(1088, 18);
-            this.spacer54.TabIndex = 15;
-            // 
-            // spacer55
-            // 
-            this.spacer55.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer55.Location = new System.Drawing.Point(0, 33);
-            this.spacer55.Name = "spacer55";
-            this.spacer55.Size = new System.Drawing.Size(1088, 19);
-            this.spacer55.TabIndex = 13;
-            // 
-            // spacer53
-            // 
-            this.spacer53.Dock = System.Windows.Forms.DockStyle.Right;
-            this.spacer53.Location = new System.Drawing.Point(957, 0);
-            this.spacer53.Name = "spacer53";
-            this.spacer53.Size = new System.Drawing.Size(133, 55);
-            this.spacer53.TabIndex = 22;
-            // 
-            // spacer52
-            // 
-            this.spacer52.Dock = System.Windows.Forms.DockStyle.Left;
-            this.spacer52.Location = new System.Drawing.Point(0, 0);
-            this.spacer52.Name = "spacer52";
-            this.spacer52.Size = new System.Drawing.Size(133, 55);
-            this.spacer52.TabIndex = 21;
-            // 
-            // spacer51
-            // 
-            this.spacer51.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer51.Location = new System.Drawing.Point(0, 33);
-            this.spacer51.Name = "spacer51";
-            this.spacer51.Size = new System.Drawing.Size(1088, 10);
-            this.spacer51.TabIndex = 8;
-            // 
-            // spacer50
-            // 
-            this.spacer50.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer50.Location = new System.Drawing.Point(0, 33);
-            this.spacer50.Name = "spacer50";
-            this.spacer50.Size = new System.Drawing.Size(1088, 10);
-            this.spacer50.TabIndex = 8;
-            // 
-            // spacer48
-            // 
-            this.spacer48.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer48.Location = new System.Drawing.Point(0, 81);
-            this.spacer48.Name = "spacer48";
-            this.spacer48.Size = new System.Drawing.Size(1088, 18);
-            this.spacer48.TabIndex = 15;
-            // 
-            // spacer49
-            // 
-            this.spacer49.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer49.Location = new System.Drawing.Point(0, 33);
-            this.spacer49.Name = "spacer49";
-            this.spacer49.Size = new System.Drawing.Size(1088, 19);
-            this.spacer49.TabIndex = 13;
-            // 
-            // spacer46
-            // 
-            this.spacer46.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer46.Location = new System.Drawing.Point(0, 81);
-            this.spacer46.Name = "spacer46";
-            this.spacer46.Size = new System.Drawing.Size(1088, 18);
-            this.spacer46.TabIndex = 15;
-            // 
-            // spacer47
-            // 
-            this.spacer47.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer47.Location = new System.Drawing.Point(0, 33);
-            this.spacer47.Name = "spacer47";
-            this.spacer47.Size = new System.Drawing.Size(1088, 19);
-            this.spacer47.TabIndex = 13;
-            // 
-            // spacer42
-            // 
-            this.spacer42.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer42.Location = new System.Drawing.Point(0, 81);
-            this.spacer42.Name = "spacer42";
-            this.spacer42.Size = new System.Drawing.Size(1088, 18);
-            this.spacer42.TabIndex = 15;
-            // 
-            // spacer45
-            // 
-            this.spacer45.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer45.Location = new System.Drawing.Point(0, 33);
-            this.spacer45.Name = "spacer45";
-            this.spacer45.Size = new System.Drawing.Size(1088, 19);
-            this.spacer45.TabIndex = 13;
-            // 
-            // spacer43
-            // 
-            this.spacer43.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer43.Location = new System.Drawing.Point(0, 81);
-            this.spacer43.Name = "spacer43";
-            this.spacer43.Size = new System.Drawing.Size(1088, 18);
-            this.spacer43.TabIndex = 15;
-            // 
-            // spacer44
-            // 
-            this.spacer44.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer44.Location = new System.Drawing.Point(0, 33);
-            this.spacer44.Name = "spacer44";
-            this.spacer44.Size = new System.Drawing.Size(1088, 19);
-            this.spacer44.TabIndex = 13;
-            // 
-            // spacer41
-            // 
-            this.spacer41.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer41.Location = new System.Drawing.Point(0, 377);
-            this.spacer41.Name = "spacer41";
-            this.spacer41.Size = new System.Drawing.Size(1090, 21);
-            this.spacer41.TabIndex = 6;
-            // 
-            // spacer40
-            // 
-            this.spacer40.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer40.Location = new System.Drawing.Point(0, 33);
-            this.spacer40.Name = "spacer40";
-            this.spacer40.Size = new System.Drawing.Size(656, 10);
-            this.spacer40.TabIndex = 8;
-            // 
-            // spacer39
-            // 
-            this.spacer39.Dock = System.Windows.Forms.DockStyle.Right;
-            this.spacer39.Location = new System.Drawing.Point(658, 58);
-            this.spacer39.Name = "spacer39";
-            this.spacer39.Size = new System.Drawing.Size(34, 862);
-            this.spacer39.TabIndex = 14;
-            // 
-            // spacer29
-            // 
-            this.spacer29.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer29.Location = new System.Drawing.Point(0, 161);
-            this.spacer29.Name = "spacer29";
-            this.spacer29.Size = new System.Drawing.Size(394, 2);
-            this.spacer29.TabIndex = 27;
-            // 
-            // spacer30
-            // 
-            this.spacer30.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer30.Location = new System.Drawing.Point(0, 122);
-            this.spacer30.Name = "spacer30";
-            this.spacer30.Size = new System.Drawing.Size(394, 2);
-            this.spacer30.TabIndex = 30;
-            // 
-            // spacer31
-            // 
-            this.spacer31.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer31.Location = new System.Drawing.Point(0, 120);
-            this.spacer31.Name = "spacer31";
-            this.spacer31.Size = new System.Drawing.Size(394, 2);
-            this.spacer31.TabIndex = 29;
-            // 
-            // spacer32
-            // 
-            this.spacer32.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer32.Location = new System.Drawing.Point(0, 81);
-            this.spacer32.Name = "spacer32";
-            this.spacer32.Size = new System.Drawing.Size(394, 2);
-            this.spacer32.TabIndex = 28;
-            // 
-            // spacer33
-            // 
-            this.spacer33.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer33.Location = new System.Drawing.Point(0, 33);
-            this.spacer33.Name = "spacer33";
-            this.spacer33.Size = new System.Drawing.Size(394, 11);
-            this.spacer33.TabIndex = 19;
-            // 
-            // spacer34
-            // 
-            this.spacer34.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer34.Location = new System.Drawing.Point(0, 152);
-            this.spacer34.Name = "spacer34";
-            this.spacer34.Size = new System.Drawing.Size(396, 11);
-            this.spacer34.TabIndex = 29;
-            // 
-            // spacer35
-            // 
-            this.spacer35.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer35.Location = new System.Drawing.Point(0, 112);
-            this.spacer35.Name = "spacer35";
-            this.spacer35.Size = new System.Drawing.Size(396, 11);
-            this.spacer35.TabIndex = 26;
-            // 
-            // spacer36
-            // 
-            this.spacer36.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer36.Location = new System.Drawing.Point(0, 73);
-            this.spacer36.Name = "spacer36";
-            this.spacer36.Size = new System.Drawing.Size(396, 10);
-            this.spacer36.TabIndex = 22;
-            // 
-            // spacer37
-            // 
-            this.spacer37.Controls.Add(this.spacer38);
-            this.spacer37.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer37.Location = new System.Drawing.Point(0, 33);
-            this.spacer37.Name = "spacer37";
-            this.spacer37.Size = new System.Drawing.Size(396, 11);
-            this.spacer37.TabIndex = 20;
-            // 
-            // spacer38
-            // 
-            this.spacer38.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer38.Location = new System.Drawing.Point(0, 0);
-            this.spacer38.Name = "spacer38";
-            this.spacer38.Size = new System.Drawing.Size(396, 11);
-            this.spacer38.TabIndex = 21;
-            // 
-            // spacer28
-            // 
-            this.spacer28.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer28.Location = new System.Drawing.Point(0, 37);
-            this.spacer28.Name = "spacer28";
-            this.spacer28.Size = new System.Drawing.Size(1090, 21);
-            this.spacer28.TabIndex = 12;
-            this.spacer28.Paint += new System.Windows.Forms.PaintEventHandler(this.spacer28_Paint);
-            // 
-            // spacer17
-            // 
-            this.spacer17.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.spacer17.Location = new System.Drawing.Point(0, 832);
-            this.spacer17.Name = "spacer17";
-            this.spacer17.Size = new System.Drawing.Size(658, 10);
-            this.spacer17.TabIndex = 13;
-            // 
-            // spacer16
-            // 
-            this.spacer16.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer16.Location = new System.Drawing.Point(0, 33);
-            this.spacer16.Name = "spacer16";
-            this.spacer16.Size = new System.Drawing.Size(656, 10);
-            this.spacer16.TabIndex = 8;
-            // 
-            // spacer15
-            // 
-            this.spacer15.Dock = System.Windows.Forms.DockStyle.Right;
-            this.spacer15.Location = new System.Drawing.Point(658, 58);
-            this.spacer15.Name = "spacer15";
-            this.spacer15.Size = new System.Drawing.Size(34, 862);
-            this.spacer15.TabIndex = 11;
-            // 
-            // spacer23
-            // 
-            this.spacer23.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer23.Location = new System.Drawing.Point(0, 235);
-            this.spacer23.Name = "spacer23";
-            this.spacer23.Size = new System.Drawing.Size(394, 2);
-            this.spacer23.TabIndex = 27;
-            // 
-            // spacer27
-            // 
-            this.spacer27.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer27.Location = new System.Drawing.Point(0, 159);
-            this.spacer27.Name = "spacer27";
-            this.spacer27.Size = new System.Drawing.Size(394, 2);
-            this.spacer27.TabIndex = 30;
-            // 
-            // spacer26
-            // 
-            this.spacer26.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer26.Location = new System.Drawing.Point(0, 120);
-            this.spacer26.Name = "spacer26";
-            this.spacer26.Size = new System.Drawing.Size(394, 2);
-            this.spacer26.TabIndex = 29;
-            // 
-            // spacer25
-            // 
-            this.spacer25.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer25.Location = new System.Drawing.Point(0, 81);
-            this.spacer25.Name = "spacer25";
-            this.spacer25.Size = new System.Drawing.Size(394, 2);
-            this.spacer25.TabIndex = 28;
-            // 
-            // spacer24
-            // 
-            this.spacer24.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer24.Location = new System.Drawing.Point(0, 33);
-            this.spacer24.Name = "spacer24";
-            this.spacer24.Size = new System.Drawing.Size(394, 11);
-            this.spacer24.TabIndex = 19;
-            // 
-            // spacer18
-            // 
-            this.spacer18.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer18.Location = new System.Drawing.Point(0, 152);
-            this.spacer18.Name = "spacer18";
-            this.spacer18.Size = new System.Drawing.Size(396, 11);
-            this.spacer18.TabIndex = 29;
-            // 
-            // spacer19
-            // 
-            this.spacer19.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer19.Location = new System.Drawing.Point(0, 112);
-            this.spacer19.Name = "spacer19";
-            this.spacer19.Size = new System.Drawing.Size(396, 11);
-            this.spacer19.TabIndex = 26;
-            // 
-            // spacer20
-            // 
-            this.spacer20.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer20.Location = new System.Drawing.Point(0, 73);
-            this.spacer20.Name = "spacer20";
-            this.spacer20.Size = new System.Drawing.Size(396, 10);
-            this.spacer20.TabIndex = 22;
-            // 
-            // spacer21
-            // 
-            this.spacer21.Controls.Add(this.spacer22);
-            this.spacer21.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer21.Location = new System.Drawing.Point(0, 33);
-            this.spacer21.Name = "spacer21";
-            this.spacer21.Size = new System.Drawing.Size(396, 11);
-            this.spacer21.TabIndex = 20;
-            // 
-            // spacer22
-            // 
-            this.spacer22.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer22.Location = new System.Drawing.Point(0, 0);
-            this.spacer22.Name = "spacer22";
-            this.spacer22.Size = new System.Drawing.Size(396, 11);
-            this.spacer22.TabIndex = 21;
-            // 
-            // spacer14
-            // 
-            this.spacer14.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer14.Location = new System.Drawing.Point(0, 37);
-            this.spacer14.Name = "spacer14";
-            this.spacer14.Size = new System.Drawing.Size(1090, 21);
-            this.spacer14.TabIndex = 10;
-            // 
-            // spacer2
-            // 
-            this.spacer2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer2.Location = new System.Drawing.Point(0, 364);
-            this.spacer2.Name = "spacer2";
-            this.spacer2.Size = new System.Drawing.Size(623, 27);
-            this.spacer2.TabIndex = 14;
-            // 
-            // spacer3
-            // 
-            this.spacer3.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer3.Location = new System.Drawing.Point(0, 83);
-            this.spacer3.Name = "spacer3";
-            this.spacer3.Size = new System.Drawing.Size(623, 27);
-            this.spacer3.TabIndex = 15;
-            // 
-            // spacer1
-            // 
-            this.spacer1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer1.Location = new System.Drawing.Point(0, 33);
-            this.spacer1.Name = "spacer1";
-            this.spacer1.Size = new System.Drawing.Size(623, 27);
-            this.spacer1.TabIndex = 13;
-            // 
-            // spacer5
-            // 
-            this.spacer5.Dock = System.Windows.Forms.DockStyle.Right;
-            this.spacer5.Location = new System.Drawing.Point(625, 353);
-            this.spacer5.Name = "spacer5";
-            this.spacer5.Size = new System.Drawing.Size(49, 567);
-            this.spacer5.TabIndex = 15;
-            // 
-            // spacer12
-            // 
-            this.spacer12.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer12.Location = new System.Drawing.Point(0, 184);
-            this.spacer12.Name = "spacer12";
-            this.spacer12.Size = new System.Drawing.Size(414, 11);
-            this.spacer12.TabIndex = 29;
-            // 
-            // spacer11
-            // 
-            this.spacer11.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer11.Location = new System.Drawing.Point(0, 144);
-            this.spacer11.Name = "spacer11";
-            this.spacer11.Size = new System.Drawing.Size(414, 11);
-            this.spacer11.TabIndex = 26;
-            // 
-            // spacer10
-            // 
-            this.spacer10.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer10.Location = new System.Drawing.Point(0, 73);
-            this.spacer10.Name = "spacer10";
-            this.spacer10.Size = new System.Drawing.Size(414, 10);
-            this.spacer10.TabIndex = 22;
-            // 
-            // spacer8
-            // 
-            this.spacer8.Controls.Add(this.spacer9);
-            this.spacer8.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer8.Location = new System.Drawing.Point(0, 33);
-            this.spacer8.Name = "spacer8";
-            this.spacer8.Size = new System.Drawing.Size(414, 11);
-            this.spacer8.TabIndex = 20;
-            // 
-            // spacer9
-            // 
-            this.spacer9.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer9.Location = new System.Drawing.Point(0, 0);
-            this.spacer9.Name = "spacer9";
-            this.spacer9.Size = new System.Drawing.Size(414, 11);
-            this.spacer9.TabIndex = 21;
-            // 
-            // spacer7
-            // 
-            this.spacer7.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.spacer7.Location = new System.Drawing.Point(0, 411);
-            this.spacer7.Name = "spacer7";
-            this.spacer7.Size = new System.Drawing.Size(416, 28);
-            this.spacer7.TabIndex = 17;
-            // 
-            // spacer13
-            // 
-            this.spacer13.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer13.Location = new System.Drawing.Point(0, 118);
-            this.spacer13.Name = "spacer13";
-            this.spacer13.Size = new System.Drawing.Size(414, 2);
-            this.spacer13.TabIndex = 27;
-            // 
-            // spacer6
-            // 
-            this.spacer6.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer6.Location = new System.Drawing.Point(0, 33);
-            this.spacer6.Name = "spacer6";
-            this.spacer6.Size = new System.Drawing.Size(414, 11);
-            this.spacer6.TabIndex = 19;
-            // 
-            // spacer4
-            // 
-            this.spacer4.Dock = System.Windows.Forms.DockStyle.Top;
-            this.spacer4.Location = new System.Drawing.Point(0, 326);
-            this.spacer4.Name = "spacer4";
-            this.spacer4.Size = new System.Drawing.Size(1090, 27);
-            this.spacer4.TabIndex = 14;
-            // 
             // mainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -4622,6 +4623,7 @@
             this.panel2.PerformLayout();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.spacer8.ResumeLayout(false);
             this.metroPanelActionsVacations.ResumeLayout(false);
             this.metroPanelActionsVacations.PerformLayout();
             this.metroPanel2.ResumeLayout(false);
@@ -4641,6 +4643,7 @@
             this.panel7.PerformLayout();
             this.panel8.ResumeLayout(false);
             this.panel8.PerformLayout();
+            this.spacer21.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.metroStyleManager1)).EndInit();
             this.metroPanelInstrument.ResumeLayout(false);
             this.metroPanel14.ResumeLayout(false);
@@ -4656,6 +4659,7 @@
             this.panel9.PerformLayout();
             this.panel10.ResumeLayout(false);
             this.panel10.PerformLayout();
+            this.spacer37.ResumeLayout(false);
             this.metroPanelWorkersReport.ResumeLayout(false);
             this.metroPanel20.ResumeLayout(false);
             this.metroPanel23.ResumeLayout(false);
@@ -4688,14 +4692,11 @@
             this.panel11.PerformLayout();
             this.panel12.ResumeLayout(false);
             this.panel12.PerformLayout();
+            this.spacer65.ResumeLayout(false);
             this.metroPanel33.ResumeLayout(false);
             this.metroPanel33.PerformLayout();
             this.metroPanel27.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.metroGrid3)).EndInit();
-            this.spacer65.ResumeLayout(false);
-            this.spacer37.ResumeLayout(false);
-            this.spacer21.ResumeLayout(false);
-            this.spacer8.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
